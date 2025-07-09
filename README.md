@@ -21,8 +21,7 @@ Administrator/root privileges (required for raw socket access)
 
 **Installation**
 1. Clone this repository:
-  git clone https://github.com/yourusername/CodeAlpha_BasicNetworkSniffer.git
-  https://github.com/Codingsteez/CodeAlpha_BasicNetworkSniffer
+  git clone https://github.com/Codingsteez/CodeAlpha_BasicNetworkSniffer
   cd CodeAlpha_BasicNetworkSniffer
 3. Install required dependencies:
   pip install scapy
